@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react'
 import Contact from './components/Contact'
 import Experience from './components/Experience'
+import GithubActivity from './components/GithubActivity'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Projects from './components/Projects'
@@ -37,6 +38,7 @@ function App() {
         <Hero />
         <Experience />
         <Skills />
+        <GithubActivity />
         <Projects />
         <Contact />
       </main>

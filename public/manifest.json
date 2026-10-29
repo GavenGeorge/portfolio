@@ -1,0 +1,24 @@
+{
+  "name": "Gaven George — Server Engineer",
+  "short_name": "Gaven George",
+  "description": "Server Engineer Associate at Oshkosh Corporation. Linux infrastructure, automation, and AI integration.",
+  "start_url": "/portfolio/",
+  "scope": "/portfolio/",
+  "display": "standalone",
+  "background_color": "#16130f",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/portfolio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/portfolio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
